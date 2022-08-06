@@ -37,6 +37,11 @@ def Farhad():
 
 
 <h3> Where to find me: </h3>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <div>
 <a href="https://github.com/farhadabbasiamiri">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
