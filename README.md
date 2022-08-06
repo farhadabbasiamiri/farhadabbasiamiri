@@ -3,7 +3,7 @@
 <img align='right' src="https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif" width="295">
 
 <div>
-<img src="https://img.shields.io/badge/Name-Farhad%20Abbasi-Amiri-important">
+<img src="https://img.shields.io/badge/Name-Farhad%20Abbasi-important">
 <img src="https://img.shields.io/badge/Title-Data%20Scientist-red">
 </div>
 </br>
