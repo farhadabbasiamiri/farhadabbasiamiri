@@ -29,12 +29,11 @@ def Farhad():
 
 <details>
   <summary>Stats</summary>
-  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri" />
-  <p align="center"> <img src="https://[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farhadabbasiamiri&theme=dark&background=000000)](https://git.io/streak-stats)" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farhadabbasiamiri&show_icons=true&theme=algolia&count_private=true" alt="farhadabbasiamiri" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadabbasiamiri&theme=algolia" alt="farhadabbasiamiri" />
   </details>
 
-https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri
-https://[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farhadabbasiamiri&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <h3> Where to find me: </h3>
 
