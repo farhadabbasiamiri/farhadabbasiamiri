@@ -34,7 +34,7 @@ def Farhad():
   </details>
 
 https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri
-http://github-readme-streak-stats.herokuapp.com?user=farhadabbasiamiri&theme=dark&background=000000
+
 
 <h3> Where to find me: </h3>
 
