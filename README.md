@@ -33,8 +33,6 @@ def Farhad():
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadabbasiamiri&theme=algolia" alt="farhadabbasiamiri" />
   </details>
 
-https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri
-
 
 <h3> Where to find me: </h3>
 
