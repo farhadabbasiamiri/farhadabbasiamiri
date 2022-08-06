@@ -29,8 +29,8 @@ def Farhad():
 
 <details>
   <summary>Stats</summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhishek20182&show_icons=true&theme=algolia&count_private=true" alt="abhishek20182" />
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20182&theme=algolia" alt="abhishek20182" />
+  <p align="center"> <img src="https://https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri" />
+  <p align="center"> <img src="https://[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farhadabbasiamiri&theme=dark&background=000000)](https://git.io/streak-stats)" />
   </details>
 
 
