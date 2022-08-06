@@ -29,8 +29,8 @@ def Farhad():
 
 <details>
   <summary>Stats</summary>
-  <p align="center"> <img src="https://https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri" />
-  <p align="center"> <img src="https://[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farhadabbasiamiri&theme=dark&background=000000)](https://git.io/streak-stats)" />
+  <p align="center"> <img src="https://https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri@gmail.com" />
+  <p align="center"> <img src="https://[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farhadabbasiamiri@gmail.com&theme=dark&background=000000)](https://git.io/streak-stats)" />
   </details>
 
 
