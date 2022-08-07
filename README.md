@@ -8,11 +8,11 @@
 </div>
 </br>
 
-- 🎓 I'm  doing my **Ph.D. in Mechanical Engineering** from the **Laurentian University, Sudbury, ON, Canada**.
-- 👨‍💼 I'm currently open to work as a **Data Scientist**.
-- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/) ,[Youtube](https://www.youtube.com/), [Wikipedia](https://en.wikipedia.org/), [Kaggle](https://www.kaggle.com/) and [Analytic Vidhya](https://www.analyticsvidhya.com/).
-- ⚡️ Fast learner.
-- 💻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🎓 I'm  doing my **Ph.D. in Mechanical Engineering** from the **Laurentian University, Sudbury, ON, Canada**; I'm currently open to work as a **Data Scientist**.
+- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/), [Udacity](https://www.udacity.com/), [Kaggle](https://www.kaggle.com/) and [Analytic Vidhya](https://www.analyticsvidhya.com/), [Youtube](https://www.youtube.com/).
+- ⚡️ I'm enthusiastic about data science, especially considering how quickly technology is changing the profession. I enjoy being a part of new technologies and trying out innovative solutions.
+- 💻 I'm open for collaborations in **Data Science** and **Machine Learning** domains and admire the businesses using predictive analytics to instinctively cater to customers' needs.
+- 👨‍💼 I'm especially interested in artificial intelligence after learning about machine learning in my studies, and I'm eager to use AI in a more practical capacity.
 
 ```python
 def Farhad():
