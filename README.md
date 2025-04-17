@@ -4,7 +4,7 @@
 
 <div>
 <img src="https://img.shields.io/badge/Name-Farhad%20Abbasi%20Amiri-important">
-<img src="https://img.shields.io/badge/Title-Data%20Science%20Enthusiast-red">
+<img src="https://img.shields.io/badge/Title-Data%20Science-red">
 </div>
 </br>
 
