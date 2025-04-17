@@ -44,7 +44,7 @@ def Farhad():
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://share.streamlit.io/user/farhadabbasiamiri">
-<img src="https://img.shields.io/badge/Streamlit-100000?style=for-the-badge&logo=Streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-100000?style=for-the-badge&logo=Streamlit&logoColor=red">
 </a>
 <a href="https://www.kaggle.com/farhadabbasiamiri">
 <img  src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
