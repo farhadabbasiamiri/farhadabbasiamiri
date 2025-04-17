@@ -38,7 +38,7 @@ def Farhad():
 <h3> Where to find me: </h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fgif--772015561140646926%2F&psig=AOvVaw2Khz49VDHS-_UYb8vionHV&ust=1744984961621000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLj7992d34wDFQAAAAAdAAAAABAK)" width="100"/>
 </div>
 
 <div>
