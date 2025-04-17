@@ -35,11 +35,6 @@ def Farhad():
   </details>
 
 
-<h3> Where to find me: </h3>
-
-<div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEoqcGwqKFHqg/feedshare-shrink_800/feedshare-shrink_800/0/1693812846869?e=1747872000&v=beta&t=0whpzTnlliVLvxQM2C1tTRPUACMjwwLPy8oZkFm93As" width="100"/>
-</div>
 
 <div>
 <a href="https://github.com/farhadabbasiamiri">
