@@ -19,9 +19,6 @@ def Farhad():
   Database_ETL = ['SQL', 'Glue ETL', 'Data Lakes', 'Data Cleansing']
   Gen_AI_LLMs = ['LangChain', 'RAGs', 'Transformers', 'GANs', 'NLP']
   Dev_Tools = ['Git', 'Jupyter Notebook', 'Excel', 'Word', 'LaTeX']
-  kaggle_competition = 0
-  analytics_vidhya_competitions = 0
-  dockship_competition = 0
   return ∞
 ```
 
