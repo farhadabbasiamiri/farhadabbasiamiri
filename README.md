@@ -12,8 +12,13 @@ Ph.D. in Engineering Science with over 6 years of experience in machine learning
 
 ```python
 def Farhad():
-  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'Machine Learning': 'Intermidiate'}
-  tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn']
+  Programming = ['Python', 'C++', 'SQL', 'Spark', 'MATLAB', 'Fortran']
+  Cloud & Big Data = ['AWS (S3, Redshift, Glue, EMR, SageMaker)', 'HPC', 'OpenMP', 'MPI']
+  ML/DL Frameworks = ['TensorFlow', 'Keras', 'Scikit-learn', 'Hugging Face', 'LangChain']
+  Data Tools = ['Pandas', 'NumPy', 'Seaborn', 'Matplotlib', 'Plotly', 'Dash']
+  Database & ETL = ['SQL', 'Glue ETL', 'Data Lakes', 'Data Cleansing']
+  Gen AI & LLMs = ['LangChain', 'RAGs', 'Transformers', 'GANs', 'NLP']
+  Dev Tools = ['Git', 'Jupyter Notebook', 'Excel', 'Word', 'LaTeX']
   kaggle_competition = 0
   analytics_vidhya_competitions = 0
   dockship_competition = 0
