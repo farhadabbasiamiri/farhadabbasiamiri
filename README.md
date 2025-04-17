@@ -4,15 +4,11 @@
 
 <div>
 <img src="https://img.shields.io/badge/Name-Farhad%20Abbasi%20Amiri-important">
-<img src="https://img.shields.io/badge/Title-Data%20Science-red">
+<img src="https://img.shields.io/badge/Title-Data%20Scientist-red">
 </div>
 </br>
 
-- 🎓 **Ph.D. in Mechanical Engineering** from the **Laurentian University, Sudbury, ON, Canada**; I'm currently open to work as a **Data Scientist**.
-- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/), [Udacity](https://www.udacity.com/), [Kaggle](https://www.kaggle.com/) and [Analytic Vidhya](https://www.analyticsvidhya.com/), [Youtube](https://www.youtube.com/).
-- ⚡️ I'm enthusiastic about data science, especially considering how quickly technology is changing the profession. I enjoy being a part of new technologies and trying out innovative solutions.
-- 💻 I'm open for collaborations in **Data Science** and **Machine Learning** domains and admire the businesses using predictive analytics to instinctively cater to customers' needs.
-- 👨‍💼 I'm especially interested in artificial intelligence after learning about machine learning in my studies, and I'm eager to use AI in a more practical capacity.
+Ph.D. in Engineering Science with over 6 years of experience in machine learning, deep learning, data science, and AI-driven modeling in both academic and industrial settings. Expertise in cloud-based big data ecosystems (AWS), generative AI, and real-time data analysis. Proven ability to design and deploy predictive models that deliver actionable insights and operational efficiencies. Experienced educator and researcher with a strong publication record and recognized with national awards.
 
 ```python
 def Farhad():
