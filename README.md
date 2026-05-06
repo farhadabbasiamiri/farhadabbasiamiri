@@ -8,7 +8,7 @@
 </div>
 </br>
 
-Ph.D. in Engineering Science with over 6 years of experience in machine learning, deep learning, data science, and AI-driven modeling in both academic and industrial settings. Expertise in cloud-based big data ecosystems (AWS), generative AI, and real-time data analysis. Proven ability to design and deploy predictive models that deliver actionable insights and operational efficiencies. Experienced educator and researcher with a strong publication record and recognized with national awards.
+I consult and build AI agent apps that automate business operations across finance, banking, healthcare, engineering, and more—turning manual workflows into smarter, faster, and more reliable systems for modern teams and growing companies today. Proven ability to design and deploy predictive models that deliver actionable insights and operational efficiencies. Experienced educator and researcher with a strong publication record and recognized with national awards.
 
 ```python
 def Farhad():
