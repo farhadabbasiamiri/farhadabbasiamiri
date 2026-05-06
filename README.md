@@ -4,7 +4,7 @@
 
 <div>
 <img src="https://img.shields.io/badge/Name-Farhad%20Abbasi%20Amiri,%20Ph.D.-important">
-<img src="https://img.shields.io/badge/Title-Data%20Scientist-red">
+<img src="https://img.shields.io/badge/Title-Agentic%20AI%20&%20Automation%20for%20Engineering%20and%20Business%20Operations-red">
 </div>
 </br>
 
