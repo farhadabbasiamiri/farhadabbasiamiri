@@ -27,48 +27,46 @@ def Farhad():
 
 <div align="center">
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhadabbasiamiri&theme=github_dark" 
-    alt="Farhad's GitHub Profile Summary" 
-  />
+  <!-- Profile Summary -->
+  <img width="92%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhadabbasiamiri&theme=github_dark" 
+       alt="Farhad's GitHub Profile Summary" />
 
   <br><br>
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" 
-    alt="Farhad's GitHub Stats" 
-  />
+  <!-- Stats Row -->
+  <img width="45%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" 
+       alt="Farhad's GitHub Stats" />
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" 
-    alt="Farhad's Repos Per Language" 
-  />
-
-  <br><br>
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhadabbasiamiri&theme=github_dark" 
-    alt="Farhad's Most Commit Language" 
-  />
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhadabbasiamiri&theme=github_dark&utcOffset=-5" 
-    alt="Farhad's Productive Time" 
-  />
+  <img width="45%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhadabbasiamiri&theme=github_dark&utcOffset=-5" 
+       alt="Farhad's Productive Time" />
 
   <br><br>
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" 
-    alt="Farhad's GitHub Streak" 
-  />
+  <!-- Languages Row -->
+  <img width="45%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" 
+       alt="Farhad's Repositories Per Language" />
+
+  <img width="45%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhadabbasiamiri&theme=github_dark" 
+       alt="Farhad's Most Used Commit Languages" />
 
   <br><br>
 
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=farhadabbasiamiri&theme=react-dark&hide_border=true&area=true" 
-    alt="Farhad's GitHub Activity Graph" 
-  />
+  <!-- Streak -->
+  <img width="70%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" 
+       alt="Farhad's GitHub Streak" />
+
+  <br><br>
+
+  <!-- Activity Graph -->
+  <img width="92%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=farhadabbasiamiri&theme=react-dark&hide_border=true&area=true" 
+       alt="Farhad's GitHub Activity Graph" />
 
 </div>
 
