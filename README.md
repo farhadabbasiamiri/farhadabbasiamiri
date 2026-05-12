@@ -25,13 +25,50 @@ def Farhad():
 
 ## 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhadabbasiamiri&show_icons=true&theme=algolia" alt="Farhad's GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadabbasiamiri&theme=algolia&layout=compact" alt="Farhad's top languages" />
-</p>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhadabbasiamiri&theme=github_dark" 
+    alt="Farhad's GitHub Profile Summary" 
+  />
+
+  <br><br>
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=farhadabbasiamiri&show_icons=true&theme=algolia&hide_border=true&count_private=true" 
+    alt="Farhad's GitHub Stats" 
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" 
+    alt="Farhad's GitHub Streak" 
+  />
+
+  <br><br>
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadabbasiamiri&layout=compact&theme=algolia&hide_border=true" 
+    alt="Farhad's Top Languages" 
+  />
+
+  <br><br>
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=farhadabbasiamiri&theme=react-dark&hide_border=true&area=true" 
+    alt="Farhad's GitHub Activity Graph" 
+  />
+
+  <br><br>
+
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=farhadabbasiamiri&theme=algolia&no-frame=true&row=1&column=6" 
+    alt="Farhad's GitHub Trophies" 
+  />
+
+</div>
 
 
 
