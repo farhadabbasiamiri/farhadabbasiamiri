@@ -40,13 +40,6 @@ def Farhad():
            alt="Top Languages by Repo" />
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img width="420px"
-           src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhadabbasiamiri&theme=github_dark&utcOffset=-5"
-           alt="Productive Time" />
-    </td>
-  </tr>
 </table>
 
 <br>
@@ -56,7 +49,6 @@ def Farhad():
      alt="GitHub Streak" />
 
 </div>
-
 
 
 <div>
