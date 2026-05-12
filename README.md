@@ -27,36 +27,32 @@ def Farhad():
 
 <div align="center">
 
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhadabbasiamiri&theme=github_dark" alt="GitHub Profile Summary" />
+  <!-- Profile Summary -->
+  <img width="95%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhadabbasiamiri&theme=github_dark" 
+       alt="GitHub Profile Summary" />
 
   <br><br>
 
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" 
+             alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhadabbasiamiri&theme=github_dark&utcOffset=-5" alt="Productive Time" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" alt="Repos Per Language" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhadabbasiamiri&theme=github_dark" alt="Most Commit Language" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" 
+             alt="Repositories Per Language" />
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" alt="GitHub Streak" />
-
-  <br><br>
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=farhadabbasiamiri&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <!-- GitHub Streak -->
+  <img width="75%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" 
+       alt="GitHub Streak" />
 
 </div>
 
