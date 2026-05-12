@@ -22,6 +22,7 @@ def Farhad():
   return ∞
 ```
 
+
 ## 📈 My GitHub Stats
 
 <div align="center">
@@ -29,29 +30,30 @@ def Farhad():
 <table>
   <tr>
     <td align="center">
-      <img width="420px" 
-           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhadabbasiamiri&theme=github_dark" 
-           alt="GitHub Profile Details" />
+      <img width="420px"
+           src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark"
+           alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img width="420px" 
-           src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" 
-           alt="GitHub Stats" />
+      <img width="420px"
+           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark"
+           alt="Top Languages by Repo" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img width="420px" 
-           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" 
-           alt="Top Languages by Repo" />
-    </td>
-    <td align="center">
-      <img width="420px" 
-           src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" 
-           alt="GitHub Streak" />
+    <td align="center" colspan="2">
+      <img width="420px"
+           src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhadabbasiamiri&theme=github_dark&utcOffset=-5"
+           alt="Productive Time" />
     </td>
   </tr>
 </table>
+
+<br>
+
+<img width="860px"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true"
+     alt="GitHub Streak" />
 
 </div>
 
