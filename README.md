@@ -27,9 +27,16 @@ def Farhad():
 
 <details>
   <summary>Stats</summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=farhadabbasiamiri&show_icons=true&theme=algolia&count_private=true" alt="farhadabbasiamiri" />
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadabbasiamiri&theme=algolia" alt="farhadabbasiamiri" />
-  </details>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=farhadabbasiamiri&show_icons=true&theme=algolia&count_private=true" alt="Farhad's GitHub stats" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadabbasiamiri&theme=algolia&layout=compact" alt="Farhad's top languages" />
+  </p>
+
+</details>
 
 
 
