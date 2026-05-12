@@ -35,13 +35,30 @@ def Farhad():
   <br><br>
 
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=farhadabbasiamiri&show_icons=true&theme=algolia&hide_border=true&count_private=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" 
     alt="Farhad's GitHub Stats" 
   />
 
   <img 
-    height="180em" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" 
+    alt="Farhad's Repos Per Language" 
+  />
+
+  <br><br>
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhadabbasiamiri&theme=github_dark" 
+    alt="Farhad's Most Commit Language" 
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhadabbasiamiri&theme=github_dark&utcOffset=-5" 
+    alt="Farhad's Productive Time" 
+  />
+
+  <br><br>
+
+  <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" 
     alt="Farhad's GitHub Streak" 
   />
@@ -49,23 +66,8 @@ def Farhad():
   <br><br>
 
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadabbasiamiri&layout=compact&theme=algolia&hide_border=true" 
-    alt="Farhad's Top Languages" 
-  />
-
-  <br><br>
-
-  <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=farhadabbasiamiri&theme=react-dark&hide_border=true&area=true" 
     alt="Farhad's GitHub Activity Graph" 
-  />
-
-  <br><br>
-
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=farhadabbasiamiri&theme=algolia&no-frame=true&row=1&column=6" 
-    alt="Farhad's GitHub Trophies" 
   />
 
 </div>
