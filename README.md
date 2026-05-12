@@ -22,7 +22,6 @@ def Farhad():
   return ∞
 ```
 
-
 ## 📈 My GitHub Stats
 
 <div align="center">
@@ -30,24 +29,24 @@ def Farhad():
 <table>
   <tr>
     <td align="center">
-      <img width="400px" 
-           src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" 
-           alt="GitHub Stats" />
+      <img width="420px" 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhadabbasiamiri&theme=github_dark" 
+           alt="GitHub Profile Details" />
     </td>
     <td align="center">
-      <img width="400px" 
-           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" 
-           alt="Top Languages by Repo" />
+      <img width="420px" 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" 
+           alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="400px" 
-           src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhadabbasiamiri&theme=github_dark" 
-           alt="Top Languages by Commit" />
+      <img width="420px" 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" 
+           alt="Top Languages by Repo" />
     </td>
     <td align="center">
-      <img width="400px" 
+      <img width="420px" 
            src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" 
            alt="GitHub Streak" />
     </td>
@@ -55,7 +54,6 @@ def Farhad():
 </table>
 
 </div>
-
 
 
 <div>
