@@ -27,35 +27,34 @@ def Farhad():
 
 <div align="center">
 
-  <!-- Profile Summary -->
-  <img width="95%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhadabbasiamiri&theme=github_dark" 
-       alt="GitHub Profile Summary" />
-
-  <br><br>
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" 
-             alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" 
-             alt="Repositories Per Language" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- GitHub Streak -->
-  <img width="75%" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" 
-       alt="GitHub Streak" />
+<table>
+  <tr>
+    <td align="center">
+      <img width="400px" 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" 
+           alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img width="400px" 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" 
+           alt="Top Languages by Repo" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400px" 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farhadabbasiamiri&theme=github_dark" 
+           alt="Top Languages by Commit" />
+    </td>
+    <td align="center">
+      <img width="400px" 
+           src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" 
+           alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
-
 
 
 
