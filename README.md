@@ -27,38 +27,37 @@ def Farhad():
 
 <div align="center">
 
-  <!-- Main GitHub Activity Plot -->
-  <img 
-    width="85%" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=farhadabbasiamiri&theme=react-dark&hide_border=true&area=false&radius=12&custom_title=GitHub%20Activity%20Overview" 
-    alt="GitHub Activity Overview" 
-  />
+  <!-- Profile Summary -->
+  <img width="95%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhadabbasiamiri&theme=github_dark" 
+       alt="GitHub Profile Summary" />
 
   <br><br>
 
   <table>
     <tr>
       <td>
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" 
-          alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farhadabbasiamiri&theme=github_dark" 
+             alt="GitHub Stats" />
       </td>
       <td>
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" 
-          alt="Repos Per Language" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farhadabbasiamiri&theme=github_dark" 
+             alt="Repositories Per Language" />
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img 
-    width="65%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" 
-    alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img width="75%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=farhadabbasiamiri&theme=algolia&hide_border=true" 
+       alt="GitHub Streak" />
 
 </div>
+
+
+
 
 <div>
 <a href="https://www.linkedin.com/in/farhad-abbasi-amiri-22934771/">
