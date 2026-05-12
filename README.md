@@ -37,6 +37,15 @@ def Farhad():
 <a href="https://www.linkedin.com/in/farhad-abbasi-amiri-22934771/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="https://substack.com/@farhadabbasiamiri">
+<img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+</a>
+<a href="https://medium.com/@farhadabbasiamiri">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<a href="https://www.youtube.com/@farhadAIworkshop">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 <a href="https://github.com/farhadabbasiamiri">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -45,8 +54,5 @@ def Farhad():
 </a>
 <a href="https://www.kaggle.com/farhadabbasiamiri">
 <img  src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-</a>
-<a href="https://medium.com/@farhadabbasiamiri">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 </div>
